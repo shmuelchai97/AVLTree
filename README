@@ -1,0 +1,5 @@
+Code written by Samuel Chai Lynn
+First uploaded on 5/20/18
+
+The code attached is an iterative, generic AVLTree written in Java, which also accesses the minimum and maximum values in the tree in O(1).
+This program will continue to be updated as I continue to optimize it and check that it works for all corner cases.
